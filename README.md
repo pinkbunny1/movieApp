@@ -1,7 +1,7 @@
-# movieApp
+# movieApp :movie_camera:
 Created a simple movie list app powered by GraphQL and React
 
-## To get started
+## To get started :computer:
 1. Start the server
    - `cd movieQL`
    - `npm install`
