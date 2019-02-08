@@ -13,3 +13,7 @@ Created a simple movie list app powered by GraphQL and React
    - `npm start`
   
 API is provided by [YTS](https://yts.am/)
+
+
+## To do:
+- make page responsive (grid or flexbox ?)
