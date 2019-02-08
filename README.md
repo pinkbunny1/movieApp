@@ -17,3 +17,8 @@ API is provided by [YTS](https://yts.am/)
 
 ## To do:
 - make page responsive (grid or flexbox ?)
+- add tests
+   - server
+      - how to add tests for graphql :S ?
+   - client
+   
